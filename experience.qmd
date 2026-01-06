@@ -1,0 +1,102 @@
+---
+title: "Work Experience"
+---
+
+## Professional Experience
+
+### [Company Name]
+**Position Title** | *Start Date - End Date (or Present)*
+
+Description of your role and responsibilities. Focus on achievements and impact.
+
+**Key Responsibilities**:
+- Responsibility 1: Detail about what you did
+- Responsibility 2: Detail about what you did
+- Responsibility 3: Detail about what you did
+
+**Achievements**:
+- Achievement 1: Quantifiable impact
+- Achievement 2: Quantifiable impact
+
+**Technologies Used**: List of technologies, tools, and frameworks
+
+---
+
+### [Company Name]
+**Position Title** | *Start Date - End Date*
+
+Description of another role. Highlight different skills and experiences.
+
+**Key Responsibilities**:
+- Responsibility 1: Detail about what you did
+- Responsibility 2: Detail about what you did
+- Responsibility 3: Detail about what you did
+
+**Achievements**:
+- Achievement 1: Quantifiable impact
+- Achievement 2: Quantifiable impact
+
+**Technologies Used**: List of technologies, tools, and frameworks
+
+---
+
+## Internships
+
+### [Company Name]
+**Intern Position** | *Start Date - End Date*
+
+Brief description of your internship experience and what you learned.
+
+**Key Responsibilities**:
+- Responsibility 1
+- Responsibility 2
+
+**Learning Outcomes**:
+- What you learned
+- Skills developed
+
+---
+
+## Volunteer Experience
+
+### [Organization Name]
+**Volunteer Role** | *Start Date - End Date*
+
+Description of your volunteer work and its impact.
+
+---
+
+## Certifications & Training
+
+- **Certification Name** - Issuing Organization, Year
+- **Course Name** - Platform, Year
+- **Workshop/Training** - Organization, Year
+
+## Technical Skills Summary
+
+Based on my professional experience, I have developed expertise in:
+
+::: {.grid}
+
+::: {.g-col-4}
+**Frontend**
+- HTML/CSS/JavaScript
+- React
+- TypeScript
+:::
+
+::: {.g-col-4}
+**Backend**
+- Python
+- Node.js
+- RESTful APIs
+:::
+
+::: {.g-col-4}
+**Tools & Other**
+- Git/GitHub
+- Docker
+- CI/CD
+:::
+
+:::

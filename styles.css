@@ -1,0 +1,51 @@
+/* Custom styles for the personal website */
+
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+}
+
+/* Homepage grid styling */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+/* Card-like styling for sections */
+.g-col-6 {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid var(--primary-color);
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .g-col-6 {
+    background-color: #2b3035;
+  }
+}
+
+/* Link styling */
+a {
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Project and experience section styling */
+hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Emoji support */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
