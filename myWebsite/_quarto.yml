@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kashish's Portfolio"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Experience"
+        href: experience.qmd
+    right:
+      - icon: github
+        href: https://github.com/kashish1928
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kashishjoshipura/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

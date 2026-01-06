@@ -1,0 +1,66 @@
+---
+title: "Projects"
+---
+
+Here are some of the projects I've worked on. Each project has helped me grow as a developer and learn new technologies.
+
+## Featured Projects
+
+### Project 1: [Project Name]
+
+**Technologies**: Python, Flask, PostgreSQL
+
+A brief description of what this project does and the problem it solves. Highlight the key features and your role in the development.
+
+- 🔗 [GitHub Repository](https://github.com/kashish1928/project1)
+- 🌐 [Live Demo](https://your-demo-link.com)
+
+**Key Features**:
+- Feature 1: Description of the feature
+- Feature 2: Description of the feature
+- Feature 3: Description of the feature
+
+---
+
+### Project 2: [Project Name]
+
+**Technologies**: React, Node.js, MongoDB
+
+Another exciting project showcasing different skills. Explain what makes this project unique and the challenges you overcame.
+
+- 🔗 [GitHub Repository](https://github.com/kashish1928/project2)
+- 🌐 [Live Demo](https://your-demo-link.com)
+
+**Key Features**:
+- Feature 1: Description of the feature
+- Feature 2: Description of the feature
+- Feature 3: Description of the feature
+
+---
+
+### Project 3: [Project Name]
+
+**Technologies**: JavaScript, API Integration, Data Visualization
+
+Description of this project, focusing on what you learned and the impact it had.
+
+- 🔗 [GitHub Repository](https://github.com/kashish1928/project3)
+
+**Key Features**:
+- Feature 1: Description of the feature
+- Feature 2: Description of the feature
+- Feature 3: Description of the feature
+
+---
+
+## Other Projects
+
+I've also worked on several other projects that you can find on my [GitHub profile](https://github.com/kashish1928). These include:
+
+- **Mini Project 1**: Brief description
+- **Mini Project 2**: Brief description
+- **Mini Project 3**: Brief description
+
+## What's Next?
+
+I'm always working on new projects and learning new technologies. Check back regularly or follow me on GitHub to see what I'm building next!

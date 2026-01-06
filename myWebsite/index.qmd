@@ -1,0 +1,32 @@
+---
+title: "Welcome"
+---
+
+# Hi, I'm Kashish! 👋
+
+Welcome to my personal website. I'm passionate about technology and building innovative solutions.
+
+## What You'll Find Here
+
+::: {.grid}
+
+::: {.g-col-6}
+### 🚀 Projects
+Explore my portfolio of projects, from web applications to data analysis tools.
+[View Projects →](projects.qmd)
+:::
+
+::: {.g-col-6}
+### 💼 Experience
+Learn about my professional journey and the skills I've developed.
+[View Experience →](experience.qmd)
+:::
+
+:::
+
+## Get in Touch
+
+I'm always interested in connecting with fellow developers and exploring new opportunities. Feel free to reach out!
+
+- **GitHub**: [kashish1928](https://github.com/kashish1928)
+- **LinkedIn**: [Connect with me](https://linkedin.com)

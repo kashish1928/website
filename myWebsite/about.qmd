@@ -1,0 +1,49 @@
+---
+title: "About Me"
+---
+
+## Background
+
+I'm a passionate developer with a keen interest in building innovative solutions and learning new technologies.
+
+## Skills
+
+### Programming Languages
+- Python
+- JavaScript/TypeScript
+- Java
+- SQL
+
+### Technologies & Tools
+- Web Development (React, Node.js)
+- Data Analysis (Pandas, NumPy)
+- Version Control (Git, GitHub)
+- Cloud Platforms (AWS, Azure)
+
+## Education
+
+### [Your University Name]
+**Degree Program** | *Expected Graduation*
+
+Relevant coursework and achievements.
+
+## Interests
+
+When I'm not coding, I enjoy:
+
+- 📚 Reading tech blogs and staying updated with industry trends
+- 🎮 Gaming and exploring interactive media
+- 🏃 Staying active and maintaining work-life balance
+- 🌱 Contributing to open-source projects
+
+## Contact
+
+Feel free to reach out to me via:
+
+- **Email**: your.email@example.com
+- **GitHub**: [kashish1928](https://github.com/kashish1928)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
+
+---
+
+*This website is built with [Quarto](https://quarto.org) and hosted on GitHub Pages.*

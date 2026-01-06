@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my personal website. I’m passionate about technology and building innovative solutions.\n\n\n\n\n\nExplore my portfolio of projects, from web applications to data analysis tools. View Projects →\n\n\n\nLearn about my professional journey and the skills I’ve developed. View Experience →\n\n\n\n\n\nI’m always interested in connecting with fellow developers and exploring new opportunities. Feel free to reach out!\n\nGitHub: kashish1928\nLinkedIn: Connect with me"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome",
+    "section": "",
+    "text": "Explore my portfolio of projects, from web applications to data analysis tools. View Projects →\n\n\n\nLearn about my professional journey and the skills I’ve developed. View Experience →"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m always interested in connecting with fellow developers and exploring new opportunities. Feel free to reach out!\n\nGitHub: kashish1928\nLinkedIn: Connect with me"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of the projects I’ve worked on. Each project has helped me grow as a developer and learn new technologies."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nProject 1: [Project Name]\nTechnologies: Python, Flask, PostgreSQL\nA brief description of what this project does and the problem it solves. Highlight the key features and your role in the development.\n\n🔗 GitHub Repository\n🌐 Live Demo\n\nKey Features: - Feature 1: Description of the feature - Feature 2: Description of the feature - Feature 3: Description of the feature\n\n\n\nProject 2: [Project Name]\nTechnologies: React, Node.js, MongoDB\nAnother exciting project showcasing different skills. Explain what makes this project unique and the challenges you overcame.\n\n🔗 GitHub Repository\n🌐 Live Demo\n\nKey Features: - Feature 1: Description of the feature - Feature 2: Description of the feature - Feature 3: Description of the feature\n\n\n\nProject 3: [Project Name]\nTechnologies: JavaScript, API Integration, Data Visualization\nDescription of this project, focusing on what you learned and the impact it had.\n\n🔗 GitHub Repository\n\nKey Features: - Feature 1: Description of the feature - Feature 2: Description of the feature - Feature 3: Description of the feature"
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Projects",
+    "section": "Other Projects",
+    "text": "Other Projects\nI’ve also worked on several other projects that you can find on my GitHub profile. These include:\n\nMini Project 1: Brief description\nMini Project 2: Brief description\nMini Project 3: Brief description"
+  },
+  {
+    "objectID": "projects.html#whats-next",
+    "href": "projects.html#whats-next",
+    "title": "Projects",
+    "section": "What’s Next?",
+    "text": "What’s Next?\nI’m always working on new projects and learning new technologies. Check back regularly or follow me on GitHub to see what I’m building next!"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Position Title | Start Date - End Date (or Present)\nDescription of your role and responsibilities. Focus on achievements and impact.\nKey Responsibilities: - Responsibility 1: Detail about what you did - Responsibility 2: Detail about what you did - Responsibility 3: Detail about what you did\nAchievements: - Achievement 1: Quantifiable impact - Achievement 2: Quantifiable impact\nTechnologies Used: List of technologies, tools, and frameworks\n\n\n\n\nPosition Title | Start Date - End Date\nDescription of another role. Highlight different skills and experiences.\nKey Responsibilities: - Responsibility 1: Detail about what you did - Responsibility 2: Detail about what you did - Responsibility 3: Detail about what you did\nAchievements: - Achievement 1: Quantifiable impact - Achievement 2: Quantifiable impact\nTechnologies Used: List of technologies, tools, and frameworks"
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Position Title | Start Date - End Date (or Present)\nDescription of your role and responsibilities. Focus on achievements and impact.\nKey Responsibilities: - Responsibility 1: Detail about what you did - Responsibility 2: Detail about what you did - Responsibility 3: Detail about what you did\nAchievements: - Achievement 1: Quantifiable impact - Achievement 2: Quantifiable impact\nTechnologies Used: List of technologies, tools, and frameworks\n\n\n\n\nPosition Title | Start Date - End Date\nDescription of another role. Highlight different skills and experiences.\nKey Responsibilities: - Responsibility 1: Detail about what you did - Responsibility 2: Detail about what you did - Responsibility 3: Detail about what you did\nAchievements: - Achievement 1: Quantifiable impact - Achievement 2: Quantifiable impact\nTechnologies Used: List of technologies, tools, and frameworks"
+  },
+  {
+    "objectID": "experience.html#internships",
+    "href": "experience.html#internships",
+    "title": "Work Experience",
+    "section": "Internships",
+    "text": "Internships\n\n[Company Name]\nIntern Position | Start Date - End Date\nBrief description of your internship experience and what you learned.\nKey Responsibilities: - Responsibility 1 - Responsibility 2\nLearning Outcomes: - What you learned - Skills developed"
+  },
+  {
+    "objectID": "experience.html#volunteer-experience",
+    "href": "experience.html#volunteer-experience",
+    "title": "Work Experience",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\n[Organization Name]\nVolunteer Role | Start Date - End Date\nDescription of your volunteer work and its impact."
+  },
+  {
+    "objectID": "experience.html#certifications-training",
+    "href": "experience.html#certifications-training",
+    "title": "Work Experience",
+    "section": "Certifications & Training",
+    "text": "Certifications & Training\n\nCertification Name - Issuing Organization, Year\nCourse Name - Platform, Year\nWorkshop/Training - Organization, Year"
+  },
+  {
+    "objectID": "experience.html#technical-skills-summary",
+    "href": "experience.html#technical-skills-summary",
+    "title": "Work Experience",
+    "section": "Technical Skills Summary",
+    "text": "Technical Skills Summary\nBased on my professional experience, I have developed expertise in:\n\n\nFrontend - HTML/CSS/JavaScript - React - TypeScript\n\n\nBackend - Python - Node.js - RESTful APIs\n\n\nTools & Other - Git/GitHub - Docker - CI/CD"
+  },
+  {
+    "objectID": "about2.html",
+    "href": "about2.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate developer with a keen interest in building innovative solutions and learning new technologies."
+  },
+  {
+    "objectID": "about2.html#background",
+    "href": "about2.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate developer with a keen interest in building innovative solutions and learning new technologies."
+  },
+  {
+    "objectID": "about2.html#skills",
+    "href": "about2.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages\n\nPython\nJavaScript/TypeScript\nJava\nSQL\n\n\n\nTechnologies & Tools\n\nWeb Development (React, Node.js)\nData Analysis (Pandas, NumPy)\nVersion Control (Git, GitHub)\nCloud Platforms (AWS, Azure)"
+  },
+  {
+    "objectID": "about2.html#education",
+    "href": "about2.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\n[Your University Name]\nDegree Program | Expected Graduation\nRelevant coursework and achievements."
+  },
+  {
+    "objectID": "about2.html#interests",
+    "href": "about2.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nWhen I’m not coding, I enjoy:\n\n📚 Reading tech blogs and staying updated with industry trends\n🎮 Gaming and exploring interactive media\n🏃 Staying active and maintaining work-life balance\n🌱 Contributing to open-source projects"
+  },
+  {
+    "objectID": "about2.html#contact",
+    "href": "about2.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out to me via:\n\nEmail: your.email@example.com\nGitHub: kashish1928\nLinkedIn: Your LinkedIn Profile\n\n\nThis website is built with Quarto and hosted on GitHub Pages."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate developer with a keen interest in building innovative solutions and learning new technologies."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate developer with a keen interest in building innovative solutions and learning new technologies."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages\n\nPython\nJavaScript/TypeScript\nJava\nSQL\n\n\n\nTechnologies & Tools\n\nWeb Development (React, Node.js)\nData Analysis (Pandas, NumPy)\nVersion Control (Git, GitHub)\nCloud Platforms (AWS, Azure)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\n[Your University Name]\nDegree Program | Expected Graduation\nRelevant coursework and achievements."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nWhen I’m not coding, I enjoy:\n\n📚 Reading tech blogs and staying updated with industry trends\n🎮 Gaming and exploring interactive media\n🏃 Staying active and maintaining work-life balance\n🌱 Contributing to open-source projects"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out to me via:\n\nEmail: your.email@example.com\nGitHub: kashish1928\nLinkedIn: Your LinkedIn Profile\n\n\nThis website is built with Quarto and hosted on GitHub Pages."
+  }
+]
