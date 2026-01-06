@@ -1,0 +1,32 @@
+---
+title: "About Me"
+---
+
+::: {.hero-section}
+# Welcome to My Portfolio
+
+Hello! I'm Kashish, and this is my professional portfolio website.
+:::
+
+## About Me
+
+I am a passionate professional with a strong background in technology and innovation. This website showcases my journey, experiences, and projects.
+
+### What I Do
+
+I specialize in creating innovative solutions and working on challenging projects that make a difference. My work combines technical expertise with creative problem-solving.
+
+### My Interests
+
+- Technology and Innovation
+- Software Development
+- Data Science and Analytics
+- Continuous Learning
+
+### Get In Touch
+
+Feel free to explore my work experience, academic background, and projects. If you'd like to connect or collaborate, don't hesitate to reach out!
+
+---
+
+*This website is built with [Quarto](https://quarto.org), an open-source scientific and technical publishing system.*

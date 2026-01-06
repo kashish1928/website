@@ -1,0 +1,58 @@
+---
+title: "Work Experience"
+---
+
+## Professional Experience
+
+::: {.experience-item}
+### Software Engineer {.item-title}
+
+**Tech Company XYZ** {.item-subtitle}
+
+*January 2022 - Present* {.item-date}
+
+- Developed and maintained scalable web applications using modern frameworks
+- Collaborated with cross-functional teams to deliver high-quality software solutions
+- Implemented CI/CD pipelines to improve deployment efficiency
+- Mentored junior developers and conducted code reviews
+:::
+
+::: {.experience-item}
+### Junior Developer {.item-title}
+
+**Startup ABC** {.item-subtitle}
+
+*June 2020 - December 2021* {.item-date}
+
+- Built responsive web applications using React and Node.js
+- Participated in agile development processes and daily stand-ups
+- Contributed to the design and implementation of REST APIs
+- Optimized database queries for improved application performance
+:::
+
+::: {.experience-item}
+### Intern - Software Development {.item-title}
+
+**Innovation Labs** {.item-subtitle}
+
+*Summer 2019* {.item-date}
+
+- Assisted in developing mobile applications for iOS and Android
+- Learned industry best practices and software development methodologies
+- Participated in team meetings and contributed ideas for new features
+- Gained hands-on experience with version control and collaborative coding
+:::
+
+## Skills & Technologies
+
+### Programming Languages
+- Python, JavaScript, TypeScript, Java, C++
+
+### Frameworks & Libraries
+- React, Node.js, Express, Django, Flask
+
+### Tools & Platforms
+- Git, Docker, Kubernetes, AWS, Azure
+
+### Databases
+- PostgreSQL, MongoDB, MySQL, Redis

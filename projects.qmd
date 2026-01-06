@@ -1,0 +1,118 @@
+---
+title: "Projects"
+---
+
+## Featured Projects
+
+::: {.project-item}
+### E-Commerce Platform {.item-title}
+
+**Full-Stack Web Application** {.item-subtitle}
+
+*2023* {.item-date}
+
+A complete e-commerce solution with user authentication, product management, shopping cart, and payment integration.
+
+**Technologies:** React, Node.js, Express, MongoDB, Stripe API
+
+**Key Features:**
+- User authentication and authorization
+- Product catalog with search and filtering
+- Shopping cart and checkout process
+- Payment processing with Stripe
+- Admin dashboard for product management
+
+[GitHub Repository](#) | [Live Demo](#)
+:::
+
+::: {.project-item}
+### Data Analytics Dashboard {.item-title}
+
+**Business Intelligence Tool** {.item-subtitle}
+
+*2022* {.item-date}
+
+An interactive dashboard for visualizing and analyzing business data with real-time updates.
+
+**Technologies:** Python, Django, PostgreSQL, D3.js, React
+
+**Key Features:**
+- Real-time data visualization
+- Interactive charts and graphs
+- Custom report generation
+- Data export functionality
+- Role-based access control
+
+[GitHub Repository](#) | [Live Demo](#)
+:::
+
+::: {.project-item}
+### Task Management Application {.item-title}
+
+**Productivity Tool** {.item-subtitle}
+
+*2021* {.item-date}
+
+A collaborative task management tool for teams with real-time synchronization.
+
+**Technologies:** Vue.js, Firebase, Material UI
+
+**Key Features:**
+- Real-time collaboration
+- Task assignment and tracking
+- Kanban board interface
+- Notification system
+- Mobile responsive design
+
+[GitHub Repository](#) | [Live Demo](#)
+:::
+
+::: {.project-item}
+### Machine Learning Model for Sentiment Analysis {.item-title}
+
+**Research Project** {.item-subtitle}
+
+*2020* {.item-date}
+
+A machine learning model that analyzes sentiment in social media posts with high accuracy.
+
+**Technologies:** Python, TensorFlow, scikit-learn, NLTK
+
+**Key Features:**
+- Natural language processing
+- Deep learning models (LSTM, BERT)
+- 92% accuracy on test dataset
+- RESTful API for integration
+- Jupyter notebooks with analysis
+
+[GitHub Repository](#) | [Research Paper](#)
+:::
+
+::: {.project-item}
+### Open Source Contributions {.item-title}
+
+**Community Projects** {.item-subtitle}
+
+*Ongoing* {.item-date}
+
+Active contributor to various open-source projects on GitHub.
+
+**Notable Contributions:**
+- Bug fixes and feature enhancements for popular frameworks
+- Documentation improvements
+- Code reviews and community support
+- Created developer tools and utilities
+
+[GitHub Profile](https://github.com/kashish1928)
+:::
+
+## Personal Projects
+
+### Portfolio Website
+This very website! Built with Quarto to showcase my work and experiences.
+
+### Tech Blog
+Regular posts about technology, programming tutorials, and industry insights.
+
+### Development Tools
+Various CLI tools and scripts to improve developer productivity.

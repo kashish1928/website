@@ -1,0 +1,66 @@
+---
+title: "Academic Experience"
+---
+
+## Education
+
+::: {.academic-item}
+### Master of Science in Computer Science {.item-title}
+
+**University of Technology** {.item-subtitle}
+
+*2018 - 2020* {.item-date}
+
+- **GPA:** 3.8/4.0
+- **Relevant Coursework:** Machine Learning, Advanced Algorithms, Distributed Systems, Software Engineering
+- **Thesis:** "Scalable Machine Learning Models for Real-time Data Processing"
+- **Awards:** Dean's List (2019, 2020), Graduate Research Fellowship
+:::
+
+::: {.academic-item}
+### Bachelor of Science in Computer Science {.item-title}
+
+**State University** {.item-subtitle}
+
+*2014 - 2018* {.item-date}
+
+- **GPA:** 3.7/4.0
+- **Relevant Coursework:** Data Structures, Computer Networks, Database Management, Web Development
+- **Honors:** Magna Cum Laude
+- **Activities:** Computer Science Club President, ACM Member
+:::
+
+## Certifications
+
+::: {.academic-item}
+### AWS Certified Solutions Architect {.item-title}
+
+*Amazon Web Services* {.item-subtitle}
+
+*Obtained: 2022* {.item-date}
+
+Professional certification demonstrating expertise in designing distributed systems on AWS.
+:::
+
+::: {.academic-item}
+### Certified Kubernetes Administrator (CKA) {.item-title}
+
+*Cloud Native Computing Foundation* {.item-subtitle}
+
+*Obtained: 2021* {.item-date}
+
+Professional certification for Kubernetes administration and management.
+:::
+
+## Publications & Research
+
+- **"Efficient Data Processing in Distributed Systems"** - Published in International Conference on Cloud Computing, 2020
+- **"Machine Learning Approaches for Predictive Analytics"** - Journal of Computer Science Research, 2019
+- **"Optimizing Web Application Performance"** - Technical Report, University of Technology, 2020
+
+## Academic Achievements
+
+- Graduate Research Fellowship Recipient
+- Dean's List - 4 consecutive semesters
+- Best Graduate Thesis Award (2020)
+- Undergraduate Research Grant (2017)
